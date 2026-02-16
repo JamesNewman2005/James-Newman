@@ -4,7 +4,7 @@ My name is James, a 20-year-old UK resident, currently pursuing a degree in Comp
 
 
 ## **Current Projects**
-- Sneaker automation softwarew frameworks
+- Sneaker automation software frameworks
 - Stock monitors for a wide range of sites
 - TLS clients
 
@@ -18,7 +18,6 @@ My name is James, a 20-year-old UK resident, currently pursuing a degree in Comp
 
 ## **Get in touch**
 - Discord - JN#2687
-- Twitter - @ReflexxDev
 
 
 
